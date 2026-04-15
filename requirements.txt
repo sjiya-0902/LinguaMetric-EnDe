@@ -1,0 +1,10 @@
+streamlit>=1.40.0
+tensorflow
+openai-whisper
+gTTS
+pydub
+epitran
+jiwer
+editdistance
+numpy
+pandas

@@ -1,0 +1,1 @@
+{"max_tokens": 25000, "sequence_length": 30, "embed_dim": 512, "dense_dim": 2048, "num_heads": 8, "batch_size": 64, "vocab_size_source": 14890, "vocab_size_target": 25000}
