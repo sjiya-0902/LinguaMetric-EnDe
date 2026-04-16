@@ -1,4 +1,4 @@
-# 🇩🇪 Whisper German Translator Suite
+# Whisper German Translator Suite
 
 A comprehensive language learning application combining English-to-German translation, pronunciation practice, and real-time fluency analysis. This suite integrates OpenAI's Whisper for speech recognition, a custom Transformer model for translation, and advanced audio processing for feedback.
 
